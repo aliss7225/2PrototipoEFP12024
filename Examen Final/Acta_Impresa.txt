@@ -1,0 +1,6 @@
+Codigo Empleado: 6551008
+Nombre del Empleado:   6551028
+Codigo del puesto:   012
+Codigo del Departamento:     235
+Sueldo del Empleado:     6000
+Estatus Empleado:  activo
